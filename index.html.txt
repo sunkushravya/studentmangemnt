@@ -15,5 +15,6 @@
 <button type="button" onclick="submitform()">Register</button>
 </form>
 <p id="conformation id"></p>
+<p id="conformationigd"></p>
 </body>
 </html>
